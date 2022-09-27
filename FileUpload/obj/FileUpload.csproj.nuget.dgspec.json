@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Training\\FileUpload\\FileUpload\\FileUpload.csproj": {}
+    "E:\\Training\\FileUpload_ASPCore_MVC\\FileUpload\\FileUpload.csproj": {}
   },
   "projects": {
-    "E:\\Training\\FileUpload\\FileUpload\\FileUpload.csproj": {
+    "E:\\Training\\FileUpload_ASPCore_MVC\\FileUpload\\FileUpload.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Training\\FileUpload\\FileUpload\\FileUpload.csproj",
+        "projectUniqueName": "E:\\Training\\FileUpload_ASPCore_MVC\\FileUpload\\FileUpload.csproj",
         "projectName": "FileUpload",
-        "projectPath": "E:\\Training\\FileUpload\\FileUpload\\FileUpload.csproj",
+        "projectPath": "E:\\Training\\FileUpload_ASPCore_MVC\\FileUpload\\FileUpload.csproj",
         "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-        "outputPath": "E:\\Training\\FileUpload\\FileUpload\\obj\\",
+        "outputPath": "E:\\Training\\FileUpload_ASPCore_MVC\\FileUpload\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",

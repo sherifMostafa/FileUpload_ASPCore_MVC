@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HZbVN/zRfRd/eCFN3jbO1ku1o7VNYpFxwT0pyXp7GmLj+cA9ylco3WwuaPoqG0p9rotF89PkQ+oPPgUVmrO+hQ==",
+  "dgSpecHash": "Q0kFbkKjIbw9gcMEkjFJbzs7qALgfSA9XcFzRwP/X2jO6EDylJINwUCBEYKIMi0RT7f21SaYB6bAGjmgbQfycw==",
   "success": true,
-  "projectFilePath": "E:\\Training\\FileUpload\\FileUpload\\FileUpload.csproj",
+  "projectFilePath": "E:\\Training\\FileUpload_ASPCore_MVC\\FileUpload\\FileUpload.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\IT\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
