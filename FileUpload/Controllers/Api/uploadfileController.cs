@@ -6,9 +6,9 @@ namespace FileUpload.Controllers.Api
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class uploadfileController : ControllerBase
+    public class UploadfileController : ControllerBase
     {
-        [HttpPost]
+        [HttpPost , DisableRequestSizeLimit]
         public IActionResult Upload()
         {
             try
